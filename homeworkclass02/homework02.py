@@ -1,4 +1,4 @@
-number = float(input("Type a number: "))
+number = int(input("Type a number: "))
  
 remainder = number % 2
  

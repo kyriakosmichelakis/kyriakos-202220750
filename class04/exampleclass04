@@ -1,0 +1,5 @@
+fruits = ['apple', 'banana', 'cherry', 'KIWI', 'mango']
+fruits.append('orange')
+fruits.remove('apple')
+print(fruits)
+print(fruits[1:5])
